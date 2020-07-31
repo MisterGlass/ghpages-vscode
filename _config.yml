@@ -1,0 +1,10 @@
+source: docs
+encoding: utf-8
+repository: MisterGlass/ghpages-vscode
+
+# plugins:
+#   - jekyll-github-metadata
+#   - jekyll-mentions
+#   - jekyll-redirect-from
+#   - jekyll-sitemap
+#   - jemoji
