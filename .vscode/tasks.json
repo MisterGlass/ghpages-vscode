@@ -6,7 +6,7 @@
         {
             "label": "Run jekyll server",
             "type": "shell",
-            "command": "jekyll serve --force_polling",
+            "command": "jekyll serve --force_polling --port 5000",
             "problemMatcher": [],
             "group": {
                 "kind": "build",

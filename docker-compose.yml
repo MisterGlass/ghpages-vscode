@@ -4,7 +4,7 @@ services:
     image: jekyll/builder
     command: /bin/sh -c "while sleep 1000; do :; done"
     ports:
-      - "127.0.0.1:4000:4000"
+      - "127.0.0.1:5000:5000"
     volumes:
       - .:/srv/jekyll
     tty: true
